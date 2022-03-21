@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlinkTest2">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlinkTest2</output-path>
+    <root id="archive" name="BlinkTest2.jar">
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
